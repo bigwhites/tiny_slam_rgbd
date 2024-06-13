@@ -1,0 +1,5 @@
+# 忽略rgbd_dataset_freiburg1_xyz目录及其所有子目录和文件
+rgbd_dataset_freiburg1_xyz/**
+
+# 忽略build目录及其所有子目录和文件
+build/**
